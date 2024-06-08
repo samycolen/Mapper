@@ -1,0 +1,21 @@
+Country,Disease,Latitude,Longitude,Date,Cases,Region,Age_Group,Gender,Severity,Temperature,Humidity,Population
+Malaysia,Dengue,2.029094,102.558688,2024-01-05,8,Seremban,15-25,Female,Mild,28,87,300000
+Malaysia,Dengue,2.736631,101.943788,2024-01-06,12,Nilai,25-35,Male,Severe,27,85,250000
+Malaysia,Dengue,4.210484,101.975766,2024-01-07,6,Ipoh,35-45,Female,Moderate,29,90,650000
+Malaysia,Dengue,3.073246,101.607692,2024-01-04,15,Petaling Jaya,50-60,Female,Severe,30,80,700000
+Malaysia,Dengue,6.118396,100.372969,2024-01-05,20,Alor Setar,60-70,Male,Moderate,31,82,500000
+Malaysia,Coronavirus,5.987478,116.092663,2024-01-06,18,Kota Kinabalu,40-50,Female,Severe,32,85,550000
+Malaysia,Coronavirus,2.029094,102.558688,2024-01-05,10,Johor Bahru,30-40,Female,Moderate,30,80,900000
+Malaysia,Coronavirus,4.210484,101.975766,2024-01-07,12,Kuala Lumpur,20-30,Male,Severe,31,83,1200000
+Malaysia,Coronavirus,3.073246,101.607692,2024-01-04,15,Klang,40-50,Male,Moderate,30,78,700000
+Malaysia,Coronavirus,6.118396,100.372969,2024-01-05,20,Penang,50-60,Female,Mild,32,85,1500000
+India,Dengue,28.704060,77.102493,2024-01-02,25,Delhi,20-30,Male,Moderate,25,60,18000000
+India,Dengue,19.076090,72.877426,2024-01-03,30,Mumbai,30-40,Female,Severe,27,70,12400000
+India,Dengue,13.082680,80.270718,2024-01-04,22,Chennai,25-35,Male,Mild,28,75,7000000
+India,Dengue,22.572646,88.363895,2024-01-02,50,Kolkata,40-50,Female,Severe,26,80,4500000
+India,Dengue,12.971599,77.594566,2024-01-03,45,Bangalore,50-60,Male,Moderate,27,78,8500000
+India,Coronavirus,17.385044,78.486671,2024-01-04,40,Hyderabad,60-70,Female,Severe,29,65,6800000
+India,Coronavirus,28.704060,77.102493,2024-01-02,25,Delhi,30-40,Male,Moderate,25,60,18000000
+India,Coronavirus,19.076090,72.877426,2024-01-03,30,Mumbai,40-50,Female,Severe,27,70,12400000
+India,Coronavirus,13.082680,80.270718,2024-01-04,22,Chennai,50-60,Male,Mild,28,75,7000000
+India,Coronavirus,22.572646,88.363895,2024-01-02,50,Kolkata,60-70,Female,Severe,26,80,4500000
